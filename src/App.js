@@ -17,17 +17,9 @@ export default function App() {
     "He/ Him",
     "Williamsburg Charter High School",
     2022,
-    "rats"
+    "Rats"
   );
-  const claudia = roster(
-    "Luna-Marcelino",
-    "She/Hers",
-    "P-TECH",
-    2022,
-    "",
-    "",
-    "Cats"
-  );
+  const claudia = roster("Luna-Marcelino", "She/Hers", "P-TECH", 2022, "Cats");
   const francelys = roster(
     "Francelys Lomeli ",
     "She/Her",
